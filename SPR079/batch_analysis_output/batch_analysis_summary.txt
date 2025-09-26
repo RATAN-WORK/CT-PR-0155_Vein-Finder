@@ -1,0 +1,85 @@
+THERMAL VEIN DETECTION - BATCH ANALYSIS SUMMARY
+==================================================
+
+Image: WIN_20250804_11_39_25_Pro
+  Total vein area: 5705 pixels
+  Total vein length: 515 pixels
+  Number of segments: 5
+  Average segment area: 1141.0 pixels
+  Vein density: 0.2971
+------------------------------
+Image: WIN_20250804_11_39_28_Pro
+  Total vein area: 5770 pixels
+  Total vein length: 468 pixels
+  Number of segments: 9
+  Average segment area: 641.1 pixels
+  Vein density: 0.3005
+------------------------------
+Image: WIN_20250804_11_39_36_Pro
+  Total vein area: 6093 pixels
+  Total vein length: 498 pixels
+  Number of segments: 9
+  Average segment area: 677.0 pixels
+  Vein density: 0.3173
+------------------------------
+Image: WIN_20250804_11_39_39_Pro
+  Total vein area: 6309 pixels
+  Total vein length: 525 pixels
+  Number of segments: 7
+  Average segment area: 901.3 pixels
+  Vein density: 0.3286
+------------------------------
+Image: WIN_20250828_16_22_00_Pro
+  Total vein area: 6179 pixels
+  Total vein length: 482 pixels
+  Number of segments: 7
+  Average segment area: 882.7 pixels
+  Vein density: 0.3218
+------------------------------
+Image: WIN_20250828_16_22_14_Pro
+  Total vein area: 7232 pixels
+  Total vein length: 764 pixels
+  Number of segments: 8
+  Average segment area: 904.0 pixels
+  Vein density: 0.3767
+------------------------------
+Image: WIN_20250901_15_00_18_Pro
+  Total vein area: 5073 pixels
+  Total vein length: 554 pixels
+  Number of segments: 6
+  Average segment area: 845.5 pixels
+  Vein density: 0.2642
+------------------------------
+Image: WIN_20250901_15_00_28_Pro
+  Total vein area: 5395 pixels
+  Total vein length: 562 pixels
+  Number of segments: 7
+  Average segment area: 770.7 pixels
+  Vein density: 0.2810
+------------------------------
+Image: WIN_20250901_15_00_41_Pro
+  Total vein area: 4873 pixels
+  Total vein length: 549 pixels
+  Number of segments: 7
+  Average segment area: 696.1 pixels
+  Vein density: 0.2538
+------------------------------
+Image: WIN_20250901_15_00_56_Pro
+  Total vein area: 6465 pixels
+  Total vein length: 628 pixels
+  Number of segments: 6
+  Average segment area: 1077.5 pixels
+  Vein density: 0.3367
+------------------------------
+Image: WIN_20250901_15_01_08_Pro
+  Total vein area: 5916 pixels
+  Total vein length: 541 pixels
+  Number of segments: 5
+  Average segment area: 1183.2 pixels
+  Vein density: 0.3081
+------------------------------
+
+OVERALL STATISTICS:
+Average vein area: 5910.0 pixels
+Average segments per image: 6.9
+Average vein density: 0.3078
