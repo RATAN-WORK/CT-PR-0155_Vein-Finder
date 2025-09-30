@@ -1,6 +1,195 @@
 THERMAL VEIN DETECTION - BATCH ANALYSIS SUMMARY
 ==================================================
 
+Image: 20250930_11h48m40s_grim
+  Total vein area: 61354 pixels
+  Total vein length: 5287 pixels
+  Number of segments: 30
+  Average segment area: 2045.1 pixels
+  Vein density: 0.0746
+------------------------------
+Image: 20250930_11h48m45s_grim
+  Total vein area: 35878 pixels
+  Total vein length: 2829 pixels
+  Number of segments: 18
+  Average segment area: 1993.2 pixels
+  Vein density: 0.0439
+------------------------------
+Image: 20250930_11h48m53s_grim
+  Total vein area: 41050 pixels
+  Total vein length: 3326 pixels
+  Number of segments: 46
+  Average segment area: 892.4 pixels
+  Vein density: 0.0516
+------------------------------
+Image: 20250930_11h51m14s_grim
+  Total vein area: 67940 pixels
+  Total vein length: 6841 pixels
+  Number of segments: 111
+  Average segment area: 612.1 pixels
+  Vein density: 0.0850
+------------------------------
+Image: 20250930_11h51m17s_grim
+  Total vein area: 67714 pixels
+  Total vein length: 6235 pixels
+  Number of segments: 84
+  Average segment area: 806.1 pixels
+  Vein density: 0.0858
+------------------------------
+Image: 20250930_11h51m24s_grim
+  Total vein area: 58016 pixels
+  Total vein length: 5334 pixels
+  Number of segments: 84
+  Average segment area: 690.7 pixels
+  Vein density: 0.0724
+------------------------------
+Image: 20250930_11h51m43s_grim
+  Total vein area: 53858 pixels
+  Total vein length: 4783 pixels
+  Number of segments: 77
+  Average segment area: 699.5 pixels
+  Vein density: 0.0677
+------------------------------
+Image: 20250930_11h51m49s_grim
+  Total vein area: 65758 pixels
+  Total vein length: 5279 pixels
+  Number of segments: 38
+  Average segment area: 1730.5 pixels
+  Vein density: 0.0938
+------------------------------
+Image: Lepton_Capture
+  Total vein area: 5811 pixels
+  Total vein length: 588 pixels
+  Number of segments: 7
+  Average segment area: 830.1 pixels
+  Vein density: 0.3027
+------------------------------
+Image: Lepton_Capture_10
+  Total vein area: 4256 pixels
+  Total vein length: 434 pixels
+  Number of segments: 8
+  Average segment area: 532.0 pixels
+  Vein density: 0.2217
+------------------------------
+Image: Lepton_Capture_11
+  Total vein area: 4609 pixels
+  Total vein length: 501 pixels
+  Number of segments: 6
+  Average segment area: 768.2 pixels
+  Vein density: 0.2401
+------------------------------
+Image: Lepton_Capture_12
+  Total vein area: 5164 pixels
+  Total vein length: 405 pixels
+  Number of segments: 6
+  Average segment area: 860.7 pixels
+  Vein density: 0.2690
+------------------------------
+Image: Lepton_Capture_13
+  Total vein area: 4473 pixels
+  Total vein length: 454 pixels
+  Number of segments: 6
+  Average segment area: 745.5 pixels
+  Vein density: 0.2330
+------------------------------
+Image: Lepton_Capture_14
+  Total vein area: 6270 pixels
+  Total vein length: 601 pixels
+  Number of segments: 8
+  Average segment area: 783.8 pixels
+  Vein density: 0.3266
+------------------------------
+Image: Lepton_Capture_15
+  Total vein area: 5554 pixels
+  Total vein length: 768 pixels
+  Number of segments: 9
+  Average segment area: 617.1 pixels
+  Vein density: 0.2893
+------------------------------
+Image: Lepton_Capture_16
+  Total vein area: 5193 pixels
+  Total vein length: 461 pixels
+  Number of segments: 7
+  Average segment area: 741.9 pixels
+  Vein density: 0.2705
+------------------------------
+Image: Lepton_Capture_17
+  Total vein area: 4960 pixels
+  Total vein length: 551 pixels
+  Number of segments: 7
+  Average segment area: 708.6 pixels
+  Vein density: 0.2583
+------------------------------
+Image: Lepton_Capture_18
+  Total vein area: 3963 pixels
+  Total vein length: 402 pixels
+  Number of segments: 8
+  Average segment area: 495.4 pixels
+  Vein density: 0.2064
+------------------------------
+Image: Lepton_Capture_19
+  Total vein area: 4418 pixels
+  Total vein length: 455 pixels
+  Number of segments: 8
+  Average segment area: 552.2 pixels
+  Vein density: 0.2301
+------------------------------
+Image: Lepton_Capture_2
+  Total vein area: 3838 pixels
+  Total vein length: 423 pixels
+  Number of segments: 4
+  Average segment area: 959.5 pixels
+  Vein density: 0.1999
+------------------------------
+Image: Lepton_Capture_3
+  Total vein area: 3717 pixels
+  Total vein length: 395 pixels
+  Number of segments: 6
+  Average segment area: 619.5 pixels
+  Vein density: 0.1936
+------------------------------
+Image: Lepton_Capture_4
+  Total vein area: 3889 pixels
+  Total vein length: 321 pixels
+  Number of segments: 6
+  Average segment area: 648.2 pixels
+  Vein density: 0.2026
+------------------------------
+Image: Lepton_Capture_5
+  Total vein area: 4292 pixels
+  Total vein length: 416 pixels
+  Number of segments: 5
+  Average segment area: 858.4 pixels
+  Vein density: 0.2235
+------------------------------
+Image: Lepton_Capture_6
+  Total vein area: 4355 pixels
+  Total vein length: 433 pixels
+  Number of segments: 7
+  Average segment area: 622.1 pixels
+  Vein density: 0.2268
+------------------------------
+Image: Lepton_Capture_7
+  Total vein area: 6012 pixels
+  Total vein length: 607 pixels
+  Number of segments: 6
+  Average segment area: 1002.0 pixels
+  Vein density: 0.3131
+------------------------------
+Image: Lepton_Capture_8
+  Total vein area: 4278 pixels
+  Total vein length: 411 pixels
+  Number of segments: 6
+  Average segment area: 713.0 pixels
+  Vein density: 0.2228
+------------------------------
+Image: Lepton_Capture_9
+  Total vein area: 4974 pixels
+  Total vein length: 497 pixels
+  Number of segments: 10
+  Average segment area: 497.4 pixels
+  Vein density: 0.2591
+------------------------------
 Image: WIN_20250804_11_39_25_Pro
   Total vein area: 5705 pixels
   Total vein length: 515 pixels
@@ -80,6 +269,6 @@ Image: WIN_20250901_15_01_08_Pro
 ------------------------------
 
 OVERALL STATISTICS:
-Average vein area: 5910.0 pixels
-Average segments per image: 6.9
-Average vein density: 0.3078
+Average vein area: 15963.3 pixels
+Average segments per image: 18.3
+Average vein density: 0.2276
